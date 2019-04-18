@@ -1,0 +1,154 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1" tvg-logo="http://img.starbr.in/1516366235_0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="Variedades e Musicas",ARTE 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1218
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 HD" tvg-logo="http://img.starbr.in/1516366235_0ba27fc615f732d9f81398f8e4216ada8b150683.jpg" group-title="Variedades e Musicas",ARTE 1 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20795
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FULL HD" tvg-logo="http://img.starbr.in/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Variedades e Musicas",BIS FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26028
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://img.starbr.in/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Variedades e Musicas",BIS HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1104
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD 1" tvg-logo="http://img.starbr.in/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Variedades e Musicas",BIS SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38740
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD 2" tvg-logo="http://img.starbr.in/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Variedades e Musicas",BIS SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38739
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD 3" tvg-logo="http://img.starbr.in/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Variedades e Musicas",BIS SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38738
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD 4" tvg-logo="http://img.starbr.in/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Variedades e Musicas",BIS SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2408
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD+" tvg-logo="http://img.starbr.in/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Variedades e Musicas",BIS SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/24187
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="CANAL DO BOI" tvg-logo="http://img.starbr.in/1516240659_f50cab41690186033375a9eae750347086a1be91.png" group-title="Variedades e Musicas",CANAL DO BOI
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2382
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="CANAL RURAL" tvg-logo="http://img.starbr.in/1516240748_46b32c28a6d6106aebe235e8d58ffd49d006db10.png" group-title="Variedades e Musicas",CANAL RURAL
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2482
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL" tvg-logo="http://img.starbr.in/1516242192_68193e8bc51b466e1238666185410fccd0b8ee98.png" group-title="Variedades e Musicas",COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2484
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://img.starbr.in/1516242192_68193e8bc51b466e1238666185410fccd0b8ee98.png" group-title="Variedades e Musicas",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/16004
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA" tvg-logo="http://img.starbr.in/1516303969_17c52198c2fa4d3728a28d35df541d8e500a889b.png" group-title="Variedades e Musicas",CURTA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2485
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA HD" tvg-logo="http://img.starbr.in/1516303969_17c52198c2fa4d3728a28d35df541d8e500a889b.png" group-title="Variedades e Musicas",CURTA HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20802
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV" tvg-logo="http://img.starbr.in/1516307200_1f7490d9118234b1616bb0fddf1a0d1ba364b2a1.jpg" group-title="Variedades e Musicas",FISH TV
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1050
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV HD" tvg-logo="http://img.starbr.in/1516307200_1f7490d9118234b1616bb0fddf1a0d1ba364b2a1.jpg" group-title="Variedades e Musicas",FISH TV HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20814
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK" tvg-logo="http://img.starbr.in/1516307297_3f171c584b7df80d589aaed8af75066dba195303.png" group-title="Variedades e Musicas",FOOD NETWORK
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1049
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK FULL HD" tvg-logo="http://img.starbr.in/1516307297_3f171c584b7df80d589aaed8af75066dba195303.png" group-title="Variedades e Musicas",FOOD NETWORK FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26041
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK HD" tvg-logo="http://img.starbr.in/1516307297_3f171c584b7df80d589aaed8af75066dba195303.png" group-title="Variedades e Musicas",FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5084
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2466
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD 1" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38752
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD 2" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38751
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD 3" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38750
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD 4" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1022
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD+" tvg-logo="http://img.starbr.in/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.png" group-title="Variedades e Musicas",GNT SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/24290
+#EXTINF:-1 tvg-id="" tvg-name="HIT TV" tvg-logo="http://img.starbr.in/1522864448_23513029d9a7119c14b062ad27e11db67900350f.jpg" group-title="Variedades e Musicas",HIT TV
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/17790
+#EXTINF:-1 tvg-id="" tvg-name="HIT TV HD" tvg-logo="http://img.starbr.in/1522864448_23513029d9a7119c14b062ad27e11db67900350f.jpg" group-title="Variedades e Musicas",HIT TV HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/17792
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME" tvg-logo="http://img.starbr.in/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="Variedades e Musicas",LIFETIME
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2492
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME FULL HD" tvg-logo="http://img.starbr.in/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="Variedades e Musicas",LIFETIME FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26034
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME HD" tvg-logo="http://img.starbr.in/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.png" group-title="Variedades e Musicas",LIFETIME HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5087
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://img.starbr.in/1516312239_2dc4938e1a1ef83c790c0db7499c9f48659c1712.png" group-title="Variedades e Musicas",MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5088
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT SD 1" tvg-logo="http://img.starbr.in/1516312239_2dc4938e1a1ef83c790c0db7499c9f48659c1712.png" group-title="Variedades e Musicas",MAIS GLOBOSAT SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38749
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT SD 2" tvg-logo="http://img.starbr.in/1516312239_2dc4938e1a1ef83c790c0db7499c9f48659c1712.png" group-title="Variedades e Musicas",MAIS GLOBOSAT SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38748
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT SD 3" tvg-logo="http://img.starbr.in/1516312239_2dc4938e1a1ef83c790c0db7499c9f48659c1712.png" group-title="Variedades e Musicas",MAIS GLOBOSAT SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38747
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT SD 4" tvg-logo="http://img.starbr.in/1516312239_2dc4938e1a1ef83c790c0db7499c9f48659c1712.png" group-title="Variedades e Musicas",MAIS GLOBOSAT SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1008
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT SD+" tvg-logo="http://img.starbr.in/1516312239_2dc4938e1a1ef83c790c0db7499c9f48659c1712.png" group-title="Variedades e Musicas",MAIS GLOBOSAT SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/28398
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://img.starbr.in/1516312775_9439b92b416e0eaea27bcf2b3a07ae77c55263df.png" group-title="Variedades e Musicas",MTV
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1000
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV FULL HD" tvg-logo="http://img.starbr.in/1516312775_9439b92b416e0eaea27bcf2b3a07ae77c55263df.png" group-title="Variedades e Musicas",MTV FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26018
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="http://img.starbr.in/1516312775_9439b92b416e0eaea27bcf2b3a07ae77c55263df.png" group-title="Variedades e Musicas",MTV HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5092
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW FULL HD" tvg-logo="http://img.starbr.in/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="Variedades e Musicas",MULTISHOW FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26017
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW HD" tvg-logo="http://img.starbr.in/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="Variedades e Musicas",MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2385
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW SD 1" tvg-logo="http://img.starbr.in/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="Variedades e Musicas",MULTISHOW SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38731
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW SD 2" tvg-logo="http://img.starbr.in/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="Variedades e Musicas",MULTISHOW SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38730
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW SD 3" tvg-logo="http://img.starbr.in/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="Variedades e Musicas",MULTISHOW SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38729
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW SD 4" tvg-logo="http://img.starbr.in/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="Variedades e Musicas",MULTISHOW SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1211
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW SD+" tvg-logo="http://img.starbr.in/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.png" group-title="Variedades e Musicas",MULTISHOW SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/24286
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRASIL" tvg-logo="http://img.starbr.in/1516320851_ad26c1db9961cdf5e77cc25591abf6c39a92bc65.png" group-title="Variedades e Musicas",MUSIC BOX BRASIL
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/997
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK" tvg-logo="http://img.starbr.in/1516319547_a5b042dca03dd1c4315c3657556e41e1f968a8de.jpg" group-title="Variedades e Musicas",NHK
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2495
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK HD" tvg-logo="http://img.starbr.in/1516319547_a5b042dca03dd1c4315c3657556e41e1f968a8de.jpg" group-title="Variedades e Musicas",NHK HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20819
+#EXTINF:-1 tvg-id="Novo Canal" tvg-name="NOVO CANAL" tvg-logo="http://img.starbr.in/1516319889_086b0e3a880d171f1ac1ff5d1d6530fffc486210.png" group-title="Variedades e Musicas",NOVO CANAL
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/11985#EXTINF:-1 tvg-id="Off" tvg-name="OFF HD" tvg-logo="http://img.starbr.in/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.png" group-title="Variedades e Musicas",OFF HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2471
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF SD 1" tvg-logo="http://img.starbr.in/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.png" group-title="Variedades e Musicas",OFF SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38728
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF SD 2" tvg-logo="http://img.starbr.in/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.png" group-title="Variedades e Musicas",OFF SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38727
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF SD 3" tvg-logo="http://img.starbr.in/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.png" group-title="Variedades e Musicas",OFF SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38726
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF SD 4" tvg-logo="http://img.starbr.in/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.png" group-title="Variedades e Musicas",OFF SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1219
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF SD+" tvg-logo="http://img.starbr.in/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.png" group-title="Variedades e Musicas",OFF SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/28420
+#EXTINF:-1 tvg-id="PlayTV" tvg-name="PLAY TV" tvg-logo="http://img.starbr.in/1516320348_da821a69369fd55a113d2fc5aedd2072c87dee09.jpg" group-title="Variedades e Musicas",PLAY TV
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2497
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL" tvg-logo="http://img.starbr.in/1516322935_e965839bf1ec73cbf0309d15c7efbf654570741c.png" group-title="Variedades e Musicas",PRIME BOX BRASIL
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/969
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://img.starbr.in/1516322935_e965839bf1ec73cbf0309d15c7efbf654570741c.png" group-title="Variedades e Musicas",PRIME BOX BRASIL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20821
+#EXTINF:-1 tvg-id="Rai Italia" tvg-name="RAI" tvg-logo="http://img.starbr.in/1552701284_1136b4201c6bdc37ed6206fe46133e04d2c18e49.png" group-title="Variedades e Musicas",RAI
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18044
+#EXTINF:-1 tvg-id="RCI" tvg-name="RCI" tvg-logo="http://img.starbr.in/1552701410_65d5c19847df4045baad9dc17aa021195e3371ce.png" group-title="Variedades e Musicas",RCI
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18043
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="TERRA VIVA" tvg-logo="http://img.starbr.in/1516361793_1877bdbd45e7263cd94eb22697f19ff409543c3c.png" group-title="Variedades e Musicas",TERRA VIVA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2504
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TRU TV" tvg-logo="http://img.starbr.in/1516362361_4210102befbcd3b65ecd86dbb4bd6a24ad8fa580.png" group-title="Variedades e Musicas",TRU TV
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/917
+#EXTINF:-1 tvg-id="TV5Monde Bresil" tvg-name="TV5 MONDE" tvg-logo="http://img.starbr.in/1552702175_601027539cbaa5a3a159f19e519c08d4bd577da6.jpg" group-title="Variedades e Musicas",TV5 MONDE
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18046
+#EXTINF:-1 tvg-id="TV5Monde Bresil" tvg-name="TV5 MONDE HD" tvg-logo="http://img.starbr.in/1552702175_601027539cbaa5a3a159f19e519c08d4bd577da6.jpg" group-title="Variedades e Musicas",TV5 MONDE HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/37794
+#EXTINF:-1 tvg-id="TV5Monde Bresil" tvg-name="TV5 MONDE SD+" tvg-logo="http://img.starbr.in/1552702175_601027539cbaa5a3a159f19e519c08d4bd577da6.jpg" group-title="Variedades e Musicas",TV5 MONDE SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38478
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MEGA HITS" tvg-logo="http://img.starbr.in/1516364336_b7d6ed1c59fe84cb13b82893eb0503161eea186a.png" group-title="Variedades e Musicas",VH1 MEGA HITS
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/898
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MEGA HITS HD" tvg-logo="http://img.starbr.in/1516364336_b7d6ed1c59fe84cb13b82893eb0503161eea186a.png" group-title="Variedades e Musicas",VH1 MEGA HITS HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5098
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD" tvg-logo="http://img.starbr.in/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="Variedades e Musicas",VIVA HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2476
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD 1" tvg-logo="http://img.starbr.in/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="Variedades e Musicas",VIVA SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38722
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD 2" tvg-logo="http://img.starbr.in/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="Variedades e Musicas",VIVA SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38721
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD 3" tvg-logo="http://img.starbr.in/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="Variedades e Musicas",VIVA SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38720
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD 4" tvg-logo="http://img.starbr.in/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="Variedades e Musicas",VIVA SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/897
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD+" tvg-logo="http://img.starbr.in/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.png" group-title="Variedades e Musicas",VIVA SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/23984
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO" tvg-logo="http://img.starbr.in/1516364678_b3bf53791e3d9d09f55edae7e59d5c3c078f362b.jpg" group-title="Variedades e Musicas",WOOHOO
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/894
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO HD" tvg-logo="http://img.starbr.in/1516364678_b3bf53791e3d9d09f55edae7e59d5c3c078f362b.jpg" group-title="Variedades e Musicas",WOOHOO HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/16214
